@@ -31,19 +31,19 @@ I'm a Student passionate about building scalable web applications. With 1 years 
 
 ## 🏆 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=[your-github-username]&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yudhis55&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=vision-friendly-dark)](https://github.com/[your-github-username]/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudhis55&layout=compact&theme=vision-friendly-dark)](https://github.com/yudhis55/github-readme-stats)
 
 ## 📌 Featured Projects
 
 ### [Project Name 1]
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=[your-github-username]&repo=[repository-name]&theme=radical)](https://github.com/[your-github-username]/[repository-name])
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yudhis55&repo=mtq-trenggalek&theme=radical)](https://github.com/yudhis55/mtq-trenggalek)
 
 Short description of project (technologies used, main features)
 
 ### [Project Name 2]
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=[your-github-username]&repo=[repository-name]&theme=radical)](https://github.com/[your-github-username]/[repository-name])
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yudhis55&repo=api-stunting&theme=radical)](https://github.com/yudhis55/api-stunting)
 
 Short description of project (technologies used, main features)
 
@@ -56,9 +56,9 @@ Short description of project (technologies used, main features)
 
 ## 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[your-github-username]&theme=github-compact)](https://github.com/[your-github-username]/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yudhis55&theme=github-compact)](https://github.com/yudhis55/github-readme-activity-graph)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/[your-github-username]/count.svg" />
+  <img src="https://profile-counter.glitch.me/yudhis55/count.svg" />
 </p>

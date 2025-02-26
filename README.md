@@ -1,7 +1,7 @@
 # Hi there, I'm Yudhistira Surya 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudhis55/)
-[![GitHub Followers](https://img.shields.io/github/followers/[your-github-username]?style=social)](https://github.com/yudhis55)
+[![GitHub Followers](https://img.shields.io/github/followers/yudhis55?style=social)](https://github.com/yudhis55)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://[your-portfolio-site].com)
 
 ## 👨💻 About Me
